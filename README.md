@@ -45,8 +45,6 @@ QuoteVibe is an elegant Android application designed to provide users with a cur
 2. **Tap the refresh button** to generate a new random quote
 3. **Long press a quote** to add it to your favorites
 4. **Tap the share icon** to share quotes with friends and family
-5. **Navigate to favorites** to view your saved quotes collection
-6. **Explore categories** to find quotes on specific themes
 
 ## 🛠️ Technologies Used
 
