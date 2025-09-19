@@ -104,10 +104,6 @@ Contributions are welcome! Here's how you can help:
 - Test your changes thoroughly
 - Update documentation as needed
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 📞 Contact & Support
 
 **Developer:** Nadeem  
